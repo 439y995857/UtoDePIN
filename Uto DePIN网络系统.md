@@ -2184,6 +2184,11 @@ Sia:  https://github.com/NebulousLabs/Sia 
 MaidSafe:  https://github.com/maidsafe 
 蚂蚁集团 LiteIO:  https://github.com/eosphoros-ai/liteio 
 泰坦网络https://github.com/Titannet-dao
+Avalanche项目相关的GitHub链接：
+Avalanche GitHub Organization (包含所有Avalanche项目的开源代码库):  https://github.com/ava-labs 
+Avalanche Go (Avalanche网络的官方Go实现，包括API、命令行界面和节点实现):  https://github.com/ava-labs/avalanchego 
+Avalanche C-Chain EVM (Avalanche C链的EVM实现，智能合约相关代码):  https://github.com/ava-labs/avalanchego/tree/main/chains/atomic/evm 
+Avalanche Documentation (官方文档，包含设置和使用Avalanche网络的指南):  https://docs.avax.network/ 
 
 
 参与方式：

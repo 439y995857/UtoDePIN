@@ -40,5 +40,4 @@
 
 🌐 携手Uto DePIN，共创辉煌！ 加入我们，一起构建一个安全、公平、有奖励的网络环境，促进平台的健康发展和生态系统的繁荣。
 
-![未命名文件](https://github.com/user-attachments/assets/b0462c8f-c58c-4f7a-878b-12ed68a78f40)
 
